@@ -5,6 +5,12 @@ Replace one image inside a `.docx` template, byte for byte, leaving the rest of 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status: alpha](https://img.shields.io/badge/status-alpha-orange.svg)]()
+[![Theoretical Computer Science](https://img.shields.io/badge/Theoretical_Computer_Science-%E2%9A%9B%EF%B8%8F-purple)](https://en.wikipedia.org/wiki/Theoretical_computer_science)
+[![Automata Theory](https://img.shields.io/badge/Automata_Theory-FA%2C_NFA%2C_PDA-orange)](https://en.wikipedia.org/wiki/Automata_theory)
+[![Formal Semantics](https://img.shields.io/badge/Formal_Semantics-%E2%86%92%E2%87%92-darkgreen)](https://en.wikipedia.org/wiki/Formal_semantics_(computer_science))
+
+
+
 
 *[Versione italiana (_italian version_)](README.it.md).* 
 
