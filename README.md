@@ -1,7 +1,5 @@
 # docxwatermarker
 
-**Author:** Fabio F.G. Buono
-
 Replace one image inside a `.docx` template, byte for byte, leaving the rest of the file alone.
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org)
