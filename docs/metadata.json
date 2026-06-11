@@ -1,0 +1,27 @@
+{
+  "repository": "docxwatermarker",
+  "url": "https://github.com/FabioFGBuono/docxwatermarker",
+  "description": "Docx Watermark tool",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+    "automata-theory",
+    "axiomatic-semantics-examples",
+    "educational-project",
+    "formal-languages",
+    "formal-semantics",
+    "formally-verified-code",
+    "hoare-logic",
+    "operational-semantics",
+    "python",
+    "robust-test-suites",
+    "specification-cross-reference-pattern",
+    "theoretical-computer-science",
+    "total-correctness"
+  ],
+  "created": "2026-06-01T00:00:30+00:00",
+  "updated": "2026-06-07T14:26:55+00:00",
+  "generated": "2026-06-11T14:29:17.535607",
+  "theme": "dual",
+  "local_path": "github_repos\\docxwatermarker"
+}
